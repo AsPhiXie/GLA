@@ -1,0 +1,12 @@
+<!-- <% Object username = session.getAttribute("username");
+									String test = "";
+									if (username == null) {
+										test = "Bienvenue, Invité";
+									}
+									else {
+										test = ("Bienvenue, " + username);
+									}
+									%>
+									<%= test %>
+									</p>
+									<strong style="margin-left: 85%;">Déconnexion</strong> -->

@@ -10,6 +10,6 @@ Sécurité mise en place :
 
 -Injection SQL
 
--Contrôle sur la taille des images uploadés
+-Contrôle sur les images uploadés
 
 -Contrôle de droits d'accès
